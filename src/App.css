@@ -1,0 +1,18 @@
+.board-row {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: antiquewhite;
+ 
+}
+
+.board-container {
+  margin: 20px;
+}
+
+  
+  /* const styles = {
+    h1: {
+      textAlign: center;
+    }
+  } */
