@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/%3Chttps://varunparihar.github.io/Tic-Tac-Toe%3E/static/css/main.19f9cccd.css",
-    "main.js": "/%3Chttps://varunparihar.github.io/Tic-Tac-Toe%3E/static/js/main.91ac7b5b.js",
-    "static/js/787.393238a3.chunk.js": "/%3Chttps://varunparihar.github.io/Tic-Tac-Toe%3E/static/js/787.393238a3.chunk.js",
-    "static/media/logo.svg": "/%3Chttps://varunparihar.github.io/Tic-Tac-Toe%3E/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/%3Chttps://varunparihar.github.io/Tic-Tac-Toe%3E/index.html",
-    "main.19f9cccd.css.map": "/%3Chttps://varunparihar.github.io/Tic-Tac-Toe%3E/static/css/main.19f9cccd.css.map",
-    "main.91ac7b5b.js.map": "/%3Chttps://varunparihar.github.io/Tic-Tac-Toe%3E/static/js/main.91ac7b5b.js.map",
-    "787.393238a3.chunk.js.map": "/%3Chttps://varunparihar.github.io/Tic-Tac-Toe%3E/static/js/787.393238a3.chunk.js.map"
+    "main.css": "/Tic-Tac-Toe/static/css/main.19f9cccd.css",
+    "main.js": "/Tic-Tac-Toe/static/js/main.058854c6.js",
+    "static/js/787.393238a3.chunk.js": "/Tic-Tac-Toe/static/js/787.393238a3.chunk.js",
+    "static/media/logo.svg": "/Tic-Tac-Toe/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Tic-Tac-Toe/index.html",
+    "main.19f9cccd.css.map": "/Tic-Tac-Toe/static/css/main.19f9cccd.css.map",
+    "main.058854c6.js.map": "/Tic-Tac-Toe/static/js/main.058854c6.js.map",
+    "787.393238a3.chunk.js.map": "/Tic-Tac-Toe/static/js/787.393238a3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.19f9cccd.css",
-    "static/js/main.91ac7b5b.js"
+    "static/js/main.058854c6.js"
   ]
 }
